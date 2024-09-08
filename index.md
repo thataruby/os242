@@ -1,8 +1,5 @@
 ---
 ---
 # OS 242: THATARUBY
-[LOG](TXT/mylog.txt) | [GitHub](https://github.com/thataruby/os242) | [LINKS](links.md)
 
-
-
-
+[LINKS](LINKS/){:target="_blank"} --- [LOG](TXT/mylog.txt){:target="_blank"} --- [GitHub](https://github.com/thataruby/os242/){:target="_blank"}
