@@ -2,11 +2,17 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txtt
 ZCZC W00 10 L03 GitHub related
-ZCZC W00 99 L02 CLASSROOM/ZOOM meetings related
-ZCZC W00 100 L02 Classroom related
-ZCZC W00 100 L02 Classroom related
+ZCZC W00 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W00 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W00 10 L01 SCELE/Discord related
 ZCZC W00 10 L03 Github related
+ZCZC W00 90 L11 Assignment #00
 ZCZC W01 90 L11 Assignment #01
 ZCZC W01 10 L03 Github related
 ZCZC W01 10 L03 Github related
-ZCZC W01 20 L31 Virtual Box
+ZCZC W01 30 L31 Virtual Box
+ZCZC W01 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W01 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W01 30 L64 Helping a friend (OS related problem)
+ZCZC W01 15 L41 TXT/mylog.txt related.
+ZCZC WO1 10 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc. See also L01.
