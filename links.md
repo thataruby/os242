@@ -17,5 +17,10 @@ permalink: LINKS/
 
 * [Basics of VI editor in under 8 minutes](https://www.youtube.com/watch?v=-_DvfdgR-LA&t=4s) --- A crash course on using the vi editor. This video is particularly useful for beginners as it walks through the basic commands and functionalities of vi.
 
+* [What is Public and Private Key Encryption?](https://www.youtube.com/watch?v=84sO-0JxoHU) --- This video introduces the concept of public and private key encryption. It highlights the roles of encryption in online security.
+
+* [Introduction to Cybersecurity](https://www.youtube.com/watch?v=ULGILG-ZhO0&list=PLQVJk9oC5JKq15cieChuOU9zFdf-FlnMi) -- An introductory video to cybersecurity. It discusses various threats that exist in the digital world and how they can be mitigated.
+
+* [Bash in 100 Seconds](https://www.youtube.com/watch?v=I4EWvMFj37g) -- A quick video that provides an overview of Bash. In just 100 seconds, it covers basic commands, scripting, and how Bash is used to automate tasks in Linux-based systems.
 <br>
 <hr>-
