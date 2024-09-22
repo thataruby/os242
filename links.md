@@ -22,5 +22,8 @@ permalink: LINKS/
 * [Introduction to Cybersecurity](https://www.youtube.com/watch?v=ULGILG-ZhO0&list=PLQVJk9oC5JKq15cieChuOU9zFdf-FlnMi) -- An introductory video to cybersecurity. It discusses various threats that exist in the digital world and how they can be mitigated.
 
 * [Bash in 100 Seconds](https://www.youtube.com/watch?v=I4EWvMFj37g) -- A quick video that provides an overview of Bash. In just 100 seconds, it covers basic commands, scripting, and how Bash is used to automate tasks in Linux-based systems.
+
+* [Linux Directories Explained in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4) -- This is a short video explaining the key directories in a Linux file system, such as /bin, /home, and /etc, and their purposes. It is useful because it clarifies the structure quickly.
+
 <br>
 <hr>-
