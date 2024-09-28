@@ -25,5 +25,9 @@ permalink: LINKS/
 
 * [Linux Directories Explained in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4) -- This is a short video explaining the key directories in a Linux file system, such as /bin, /home, and /etc, and their purposes. It is useful because it clarifies the structure quickly.
 
+* [Address Binding, Linking, Loading](https://www.youtube.com/watch?v=40mrrsRJLYc) -- A video explaining how address binding works. It gives you a clear visual on different binding methods like compile-time and load-time. 
+
+* [Memory Allocation Techniques](https://www.youtube.com/watch?v=JPaevdRfmV0) -- This video explores static and dynamic memory allocation and the issue of fragmentation. It stands out for for its clear animations that simplify complex memory management concepts.
+
 <br>
 <hr>-
