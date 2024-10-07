@@ -29,5 +29,6 @@ permalink: LINKS/
 
 * [Memory Allocation Techniques](https://www.youtube.com/watch?v=JPaevdRfmV0) -- This video explores static and dynamic memory allocation and the issue of fragmentation. It stands out for for its clear animations that simplify complex memory management concepts.
 
+* [How to View Your Linux Processes](https://www.freecodecamp.org/news/linux-top/) -- A resource on how to use the top command in Linux to view and manage system processes. It is helpful because top is crucial for monitoring system performance, helping users identify processes consuming too many resources and manage them effectively.
 <br>
 <hr>-
