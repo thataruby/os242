@@ -32,5 +32,8 @@ permalink: LINKS/
 * [How to View Your Linux Processes](https://www.freecodecamp.org/news/linux-top/) -- A resource on how to use the top command in Linux to view and manage system processes. It is helpful because top is crucial for monitoring system performance, helping users identify processes consuming too many resources and manage them effectively.
 
 * [The fork() function in C](https://www.youtube.com/watch?v=cex9XrZCU14) -- This video explains the fork() function, demonstrating how it creates child processes and results in parallel execution paths in both the parent and child. It is helpful as it visually breaks down process creation step-by-step.
+
+* [Docusaurus from ZERO to HERO](https://www.youtube.com/watch?v=Aw9D0YMK8Sk) -- This video provides a step-by-step guide on setting up and customizing a Docusaurus site. It is helpful because it covers Docusaurus basics and practical tips, heping viewers to create, style, and deploy a professional documentation site from scratch.
+
 <br>
 <hr>-

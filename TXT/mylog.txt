@@ -79,4 +79,16 @@ ZCZC W06 20 L22 Linux CLI including tar, etc.
 ZCZC W06 90 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W06 30 L27 SSH, key-gen, tunneling, putty, winscp
 ZCZC W06 45 L25 C-language including Make.
-
+ZCZC W06 90 L17 Assignment #04
+ZCZC W07 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W07 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC WO7 30 L08 OS Chat related (WA, LIME, Telegram, Signal) with AsDos, Friend, etc.
+ZCZC W07 60 L64 Helping a friend (OS related problem)
+ZCZC W07 15 L41 TXT/mylog.txt related.
+ZCZC W07 90 L32 YouTube: watching OS related topics, etc.
+ZCZC W07 30 L01 SCELE/Discord related
+ZCZC W07 30 L43 TXT/myrank.tex related, including peer review.
+ZCZC W07 20 L22 Linux CLI including tar, etc.
+ZCZC W07 90 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W07 30 L27 SSH, key-gen, tunneling, putty, winscp
+ZCZC W07 45 L25 C-language including Make.
