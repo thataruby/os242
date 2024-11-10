@@ -35,5 +35,6 @@ permalink: LINKS/
 
 * [Docusaurus from ZERO to HERO](https://www.youtube.com/watch?v=Aw9D0YMK8Sk) -- This video provides a step-by-step guide on setting up and customizing a Docusaurus site. It is helpful because it covers Docusaurus basics and practical tips, heping viewers to create, style, and deploy a professional documentation site from scratch.
 
+* [LFS 12.1 - How to build Linux From Scratch 12.1](https://www.youtube.com/playlist?list=PLyc5xVO2uDsCKdz6-Ojah0o-ZTqGE7HEX) -- This is a YouTube playlist that provides a step-by-step guide to building a Linux From Scratch (LFS) system. It is helpful because it visually demonstrates the steps, making it easier to follow along and avoid  mistakes.
 <br>
 <hr>-
